@@ -1,4 +1,4 @@
-#add type annotation on the functions and variables
+from typing import var 
 #variables types are float, function return type is a float
 
 def average(a, b):
