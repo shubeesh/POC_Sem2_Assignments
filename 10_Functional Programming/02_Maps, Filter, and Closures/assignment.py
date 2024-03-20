@@ -9,4 +9,4 @@ mapped_div2 = map(div2, my_list)
 mapped_exp2 = map(exp2, my_list)
 
 mapped_mult2_list = my_list(mapped_mult2)
-print(mapped_mult2_list)
+print(mapped_mult2_list)#
