@@ -1,5 +1,5 @@
 from typing import var 
-#variables types are float, function return type is a float
+var = float
 
 def average(a, b):
     return (a + b) / 2
